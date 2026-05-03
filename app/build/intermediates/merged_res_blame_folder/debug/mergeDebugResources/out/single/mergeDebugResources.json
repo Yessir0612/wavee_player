@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\drawable_vibewave_logo.xml.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\drawable\\vibewave_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_tt_hoves_pro_demibold.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\tt_hoves_pro_demibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_inter_tight_regular.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\inter_tight_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_tt_hoves_pro_medium.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\tt_hoves_pro_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_inter_tight_medium.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\inter_tight_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\drawable_logo_wavee.xml.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\drawable\\logo_wavee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_tt_hoves_pro_regular.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\tt_hoves_pro_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_inter_tight_bold.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\inter_tight_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_inter_tight_semibold.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\inter_tight_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\font_tt_hoves_pro_bold.ttf.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\font\\tt_hoves_pro_bold.ttf"
+    },
+    {
+        "merged": "com.vibewave.app-debug-92:/xml_file_provider_paths.xml.flat",
+        "source": "com.vibewave.app-main-94:/xml/file_provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-debug-92:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Baaskas\\.gradle\\daemon\\8.9\\com.vibewave.app-main-94:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

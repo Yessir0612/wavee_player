@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavee</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_search">Поиск</string>
+    <string name="nav_library">Мои файлы</string>
+    <string name="nav_profile">Профиль</string>
+
+    <!-- Welcome -->
+    <string name="welcome_tagline">Твой звук, твой вайб</string>
+    <string name="welcome_subtitle">Открывай, слушай и сохраняй музыку, которая тебя цепляет.</string>
+    <string name="welcome_get_started">Начать</string>
+    <string name="welcome_have_account">У меня уже есть аккаунт</string>
+
+    <!-- Auth -->
+    <string name="auth_welcome_back">С возвращением</string>
+    <string name="auth_login_subtitle">Войдите, чтобы продолжить.</string>
+    <string name="auth_create_account">Создать аккаунт</string>
+    <string name="auth_signup_subtitle">Зарегистрируйтесь, чтобы сохранять музыку и синхронизировать её между устройствами.</string>
+    <string name="auth_name">Имя</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Пароль (минимум 6 символов)</string>
+    <string name="auth_login">Войти</string>
+    <string name="auth_no_account">Нет аккаунта? </string>
+    <string name="auth_create_one">Создать</string>
+    <string name="auth_have_account">Уже есть аккаунт? </string>
+    <string name="auth_login_link">Войти</string>
+    <string name="auth_back">Назад</string>
+
+    <string name="auth_error_email_in_use">Этот email уже используется.</string>
+    <string name="auth_error_no_account">Аккаунт с таким email не найден.</string>
+    <string name="auth_error_wrong_password">Неверный email или пароль.</string>
+    <string name="auth_error_short_password">Пароль должен быть не короче 6 символов.</string>
+    <string name="auth_error_generic">Что-то пошло не так. Попробуйте ещё раз.</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Добрый вечер 👋</string>
+    <string name="home_recently_played">Недавно прослушанные</string>
+    <string name="home_trending">В тренде сейчас 🔥</string>
+
+    <!-- Search -->
+    <string name="search_hint">Поиск треков, исполнителей…</string>
+    <string name="search_results">Результаты поиска</string>
+    <string name="search_trending">В тренде</string>
+    <string name="search_clear">Очистить</string>
+    <string name="genre_pop">Поп</string>
+    <string name="genre_rock">Рок</string>
+    <string name="genre_hiphop">Хип-хоп</string>
+    <string name="genre_indie">Инди</string>
+    <string name="genre_rnb">R&amp;B</string>
+    <string name="genre_electro">Электро</string>
+    <string name="genre_jazz">Джаз</string>
+
+    <!-- Profile -->
+    <string name="profile_liked">Избранное ❤</string>
+    <string name="profile_history">История прослушивания</string>
+    <string name="profile_clear_history">Очистить историю</string>
+    <string name="profile_appearance">Оформление</string>
+    <string name="profile_theme_palette">Цветовая палитра</string>
+    <string name="profile_accent_color">Акцентный цвет</string>
+    <string name="profile_dynamic_colors">Динамические цвета из обложки</string>
+    <string name="profile_dynamic_colors_desc">Акцент адаптируется под обложку текущего трека</string>
+    <string name="profile_player_style">Стиль плеера</string>
+    <string name="profile_font">Шрифт</string>
+    <string name="profile_sign_out">Выйти</string>
+    <string name="profile_top_tracks">Ваши лучшие треки</string>
+    <string name="profile_nothing_yet">Пока пусто — послушайте что-нибудь!</string>
+    <string name="profile_language">Язык</string>
+    <string name="profile_language_russian">Русский</string>
+    <string name="profile_language_english">English</string>
+    <string name="profile_default_user">Вы</string>
+    <string name="profile_avatar_choose">Фото профиля</string>
+    <string name="profile_avatar_gallery">Выбрать из галереи</string>
+    <string name="profile_avatar_camera">Сфотографировать</string>
+    <string name="profile_avatar_remove">Удалить фото</string>
+
+    <!-- Player -->
+    <string name="player_no_track">Нет трека</string>
+    <string name="player_play">Воспроизвести</string>
+    <string name="player_pause">Пауза</string>
+    <string name="player_next">Далее</string>
+    <string name="player_prev">Назад</string>
+    <string name="player_shuffle">Перемешать</string>
+    <string name="player_repeat">Повтор</string>
+    <string name="player_queue">Очередь</string>
+    <string name="player_lyrics">Текст</string>
+    <string name="player_more">Ещё</string>
+    <string name="player_close">Закрыть</string>
+    <string name="player_like">В избранное</string>
+    <string name="player_unlike">Убрать из избранного</string>
+
+    <!-- Library (local files) -->
+    <string name="library_title">Мои файлы</string>
+    <string name="library_permission_denied">Нет доступа к аудиофайлам</string>
+    <string name="library_permission_explanation">Чтобы показать локальные треки из папок Music и Download, нужно разрешение на доступ к медиа.</string>
+    <string name="library_grant_permission">Разрешить</string>
+    <string name="library_empty_title">Файлы не найдены</string>
+    <string name="library_empty_subtitle">Положите аудиофайлы в папки Music или Download — они появятся здесь.</string>
+
+    <!-- Common -->
+    <string name="action_continue">Продолжить</string>
+    <string name="action_back">Назад</string>
+</resources>

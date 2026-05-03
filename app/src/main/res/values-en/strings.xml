@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wavee</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_library">My Files</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Welcome -->
+    <string name="welcome_tagline">Your sound, your vibe</string>
+    <string name="welcome_subtitle">Discover, play, and keep track of the music that moves you.</string>
+    <string name="welcome_get_started">Get started</string>
+    <string name="welcome_have_account">I already have an account</string>
+
+    <!-- Auth -->
+    <string name="auth_welcome_back">Welcome back</string>
+    <string name="auth_login_subtitle">Log in to continue where you left off.</string>
+    <string name="auth_create_account">Create account</string>
+    <string name="auth_signup_subtitle">Sign up to save your music and sync across devices.</string>
+    <string name="auth_name">Name</string>
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password (at least 6 characters)</string>
+    <string name="auth_login">Log in</string>
+    <string name="auth_no_account">No account yet? </string>
+    <string name="auth_create_one">Create one</string>
+    <string name="auth_have_account">Already have an account? </string>
+    <string name="auth_login_link">Log in</string>
+    <string name="auth_back">Back</string>
+
+    <string name="auth_error_email_in_use">This email is already in use.</string>
+    <string name="auth_error_no_account">No account found with this email.</string>
+    <string name="auth_error_wrong_password">Incorrect email or password.</string>
+    <string name="auth_error_short_password">Password must be at least 6 characters.</string>
+    <string name="auth_error_generic">Something went wrong. Please try again.</string>
+
+    <!-- Home -->
+    <string name="home_greeting">Good evening 👋</string>
+    <string name="home_recently_played">Recently played</string>
+    <string name="home_trending">Trending now 🔥</string>
+
+    <!-- Search -->
+    <string name="search_hint">Search tracks, artists…</string>
+    <string name="search_results">Search results</string>
+    <string name="search_trending">Trending</string>
+    <string name="search_clear">Clear</string>
+    <string name="genre_pop">Pop</string>
+    <string name="genre_rock">Rock</string>
+    <string name="genre_hiphop">Hip-Hop</string>
+    <string name="genre_indie">Indie</string>
+    <string name="genre_rnb">R&amp;B</string>
+    <string name="genre_electro">Electro</string>
+    <string name="genre_jazz">Jazz</string>
+
+    <!-- Profile -->
+    <string name="profile_liked">Liked ❤</string>
+    <string name="profile_history">Listening history</string>
+    <string name="profile_clear_history">Clear history</string>
+    <string name="profile_appearance">Appearance</string>
+    <string name="profile_theme_palette">Color palette</string>
+    <string name="profile_accent_color">Accent color</string>
+    <string name="profile_dynamic_colors">Dynamic colors from album art</string>
+    <string name="profile_dynamic_colors_desc">Accent adapts to the current track\'s cover</string>
+    <string name="profile_player_style">Player style</string>
+    <string name="profile_font">Font</string>
+    <string name="profile_sign_out">Sign out</string>
+    <string name="profile_top_tracks">Your top tracks</string>
+    <string name="profile_nothing_yet">Nothing here yet — go listen to something!</string>
+    <string name="profile_language">Language</string>
+    <string name="profile_language_russian">Русский</string>
+    <string name="profile_language_english">English</string>
+    <string name="profile_default_user">You</string>
+    <string name="profile_avatar_choose">Profile photo</string>
+    <string name="profile_avatar_gallery">Choose from gallery</string>
+    <string name="profile_avatar_camera">Take a photo</string>
+    <string name="profile_avatar_remove">Remove photo</string>
+
+    <!-- Player -->
+    <string name="player_no_track">No track</string>
+    <string name="player_play">Play</string>
+    <string name="player_pause">Pause</string>
+    <string name="player_next">Next</string>
+    <string name="player_prev">Previous</string>
+    <string name="player_shuffle">Shuffle</string>
+    <string name="player_repeat">Repeat</string>
+    <string name="player_queue">Queue</string>
+    <string name="player_lyrics">Lyrics</string>
+    <string name="player_more">More</string>
+    <string name="player_close">Close</string>
+    <string name="player_like">Add to favorites</string>
+    <string name="player_unlike">Remove from favorites</string>
+
+    <!-- Library (local files) -->
+    <string name="library_title">My Files</string>
+    <string name="library_permission_denied">No access to audio files</string>
+    <string name="library_permission_explanation">To show local tracks from Music and Download folders, audio access permission is required.</string>
+    <string name="library_grant_permission">Grant permission</string>
+    <string name="library_empty_title">No files found</string>
+    <string name="library_empty_subtitle">Put audio files in Music or Download folders — they\'ll appear here.</string>
+
+    <!-- Common -->
+    <string name="action_continue">Continue</string>
+    <string name="action_back">Back</string>
+</resources>

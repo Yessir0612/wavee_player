@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716484728547",
+    "project_id": "wavee-22492",
+    "storage_bucket": "wavee-22492.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716484728547:android:130eb75d2a3b77737997d6",
+        "android_client_info": {
+          "package_name": "com.vibewave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6D-MXaMJkS9OJrKE3Ng8tCBgdY2W08Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

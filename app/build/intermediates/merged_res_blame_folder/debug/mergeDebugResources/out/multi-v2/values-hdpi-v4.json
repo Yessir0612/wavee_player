@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vibewave.app-mergeDebugResources-90:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Baaskas\\.gradle\\caches\\8.9\\transforms\\6a825294ec69a54831fdb6dc99a8b83d\\transformed\\appcompat-1.7.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

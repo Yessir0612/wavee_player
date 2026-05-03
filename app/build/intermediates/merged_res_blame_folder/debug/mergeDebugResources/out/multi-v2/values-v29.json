@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.vibewave.app-mergeDebugResources-90:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Baaskas\\.gradle\\caches\\8.9\\transforms\\4957db1da8e177efa30bc1aeefa647ba\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}

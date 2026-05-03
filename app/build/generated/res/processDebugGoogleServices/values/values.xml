@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">716484728547</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6D-MXaMJkS9OJrKE3Ng8tCBgdY2W08Qs</string>
+    <string name="google_app_id" translatable="false">1:716484728547:android:130eb75d2a3b77737997d6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6D-MXaMJkS9OJrKE3Ng8tCBgdY2W08Qs</string>
+    <string name="google_storage_bucket" translatable="false">wavee-22492.firebasestorage.app</string>
+    <string name="project_id" translatable="false">wavee-22492</string>
+</resources>
