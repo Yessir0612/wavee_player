@@ -39,23 +39,12 @@ import com.vibewave.domain.model.Track
 import com.vibewave.ui.theme.VibeWaveTheme
 import dev.chrisbanes.haze.HazeState
 
-/**
- * Mini-player bar.
- *
- * **Background** = the current track's album art, blurred with [Modifier.blur]
- * + a dark scrim so text stays readable. Self-contained — does not depend
- * on any shared [HazeState] for the album-art blur (we keep hazeState in
- * the signature for future use but don't require it to work).
- *
- * Tap the whole bar → opens full player.
- * Tap play/pause or next → doesn't bubble up.
- */
 @Composable
 fun MiniPlayer(
     hazeState: HazeState,
     track: Track?,
     isPlaying: Boolean,
-    progress: Float,                 // 0f..1f
+    progress: Float,                 
     onClick: () -> Unit,
     onPlayPause: () -> Unit,
     onNext: () -> Unit,
@@ -73,10 +62,9 @@ fun MiniPlayer(
             modifier = Modifier
                 .fillMaxWidth()
                 .clip(RoundedCornerShape(18.dp))
-                .background(colors.surfaceElevated)      // fallback if art missing
+                .background(colors.surfaceElevated)
                 .clickable(onClick = onClick),
         ) {
-            // ── Blurred album art background ─────────────────────────────
             Box {
                 AsyncImage(
                     model = track.albumArt,
@@ -86,7 +74,6 @@ fun MiniPlayer(
                         .matchParentSize()
                         .blur(radius = 30.dp),
                 )
-                // Scrim so text has contrast over any kind of artwork
                 Box(
                     modifier = Modifier
                         .matchParentSize()
@@ -104,7 +91,6 @@ fun MiniPlayer(
                     modifier = Modifier.padding(10.dp),
                     verticalAlignment = Alignment.CenterVertically,
                 ) {
-                    // Crisp album thumbnail (not blurred)
                     AsyncImage(
                         model = track.albumArt,
                         contentDescription = null,
@@ -151,8 +137,6 @@ fun MiniPlayer(
                     }
                 }
             }
-
-            // ── Thin progress line at the very bottom ────────────────────
             LinearProgressIndicator(
                 progress = { progress.coerceIn(0f, 1f) },
                 color = colors.accent,
